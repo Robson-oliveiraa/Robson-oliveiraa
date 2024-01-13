@@ -13,4 +13,8 @@
   <img align="center" alt="Robson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Robson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<a href = "mailto:robsonpvh07@gmail.com?subject=Vim%20pelo%20Git%20Hub&body=Ola%20Douglas%2C%20vim%20pelo%20Git%20Hub."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/douglasarthurr/douglasarthurr/blob/output/github-contribution-grid-snake.svg)
   
